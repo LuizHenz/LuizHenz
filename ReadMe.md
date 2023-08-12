@@ -7,7 +7,7 @@
 ![MXfm](https://github.com/LuizHenz/LuizHenz/assets/107008776/b230bd67-b3f8-42e0-a4b5-03324a9e2979)
 ![X5Nl](https://github.com/LuizHenz/LuizHenz/assets/107008776/d76aa814-180a-4101-9033-d7f64252c593)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuizHenz&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=LuizHenz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+<!--![](https://github-readme-stats.vercel.app/api?username=LuizHenz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)-->
 
 
 ---
